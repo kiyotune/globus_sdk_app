@@ -1,0 +1,7 @@
+# https://auth.globus.org/v2/web/developers
+# [AppGlobusSDK]
+CLIENT_ID = ''
+
+AUTH_TOKEN = ''
+TRANSFER_TOKEN = ''
+
